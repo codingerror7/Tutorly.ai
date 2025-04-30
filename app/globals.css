@@ -1,0 +1,83 @@
+@import "tailwindcss";
+#btn1{
+  background-color: #fffefe22;
+}
+#signupdiv2{
+  background-color: #ffffff0b;
+  border-radius: 10%;
+}
+.signuph1{
+  font-family: 'gilroy';
+  color: rgb(250, 250, 250);
+  font-size: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 600;
+}
+.form{
+  border: 0.5px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+  margin-top: 4%;
+  width: 70%;
+  height: 75%;
+}
+.input{
+  border: 0.5px solid white;
+  border-radius: 8px;
+  padding: 1.2%;
+  font-size: 11px;
+  margin-top: 9%;
+  width: 70%;
+}
+.supbtn{
+  text-align: center;
+  border: 1px solid white;
+  background-color: transparent;
+  border-radius: 10px;
+  cursor: pointer;
+  font-family: 'gilroy';
+  width: 35%;
+  padding: 2px;
+  font-size: 10px;
+  margin-top: 10%;
+  background-color: white;
+  color: black;
+  font-weight: 600;
+}
+.mainDiv{
+  height: 78vh;
+  width: 70vw;
+  /*border: 2px solid white;*/
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: auto;
+  margin-top: 3%;
+  padding: 1%;
+}
+.subDiv{
+  height: 90%;
+  width: 31%;
+  border-radius: 5%;
+  color: white;
+  font-family: 'gilroy';
+  padding: 2%;
+  background-color: rgba(255, 255, 255, 0.074);
+}
+.btn{
+  width: 50%;
+  border: 1px solid white;
+  border-radius: 5%;
+  text-align: center;
+  font-size: 13px;
+  padding: 0.5%;
+  margin-left: 25%;
+  margin-top: 5%;
+  cursor: pointer;
+}
+.p{
+  margin-top: 2%;
+}
