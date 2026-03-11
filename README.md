@@ -1,4 +1,4 @@
-deployment link: https://tutorly-ai-nine.vercel.app/
+Check it out here: https://tutorly-ai-nine.vercel.app/
 
 🤖 Tutorly.ai – AI-Powered Doubt Solving Assistant for Students
 
